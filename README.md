@@ -1,13 +1,4 @@
-### CSC 322 - SOFTWARE ENGINEERING  
-
-
-
-## This is our team project, it is 25% of the final grade!  
-
-
-## Michael Salamon, Daniel Dong, Daniel Hernandez, Jahed Prince 
-
-**THIS IS OUR COMPLETE REPOSITORY**  
+# SOFTWARE ENGINEERING Project
 
 This is a project to understand the concepts of Software Engineering.  
 We all had to be team players and communicate for a working PC  
@@ -16,12 +7,6 @@ in GitHub Issues. Since the meetings lead the direction for the website,
 we were following an Agile. Our entire website was built using one  
 programming language: Javascript. To begin exploring the website,  
 go to Javascript Website -> Login and Signup -> index.html     
-
-Here is our first phase report:  
-[Phase 1 Report - final.pdf](https://github.com/MichaelSalSail/CSC322_TEAMJ/files/6330354/Phase.1.Report.-.final.pdf)  
-
-Here is our phase two report:  
-[Phase II Report (4.22.2021) .pdf](https://github.com/MichaelSalSail/CSC322_TEAMJ/files/6393889/Phase.II.Report.4.22.2021.pdf)  
 
 # IndexedDB  
 <p>Instead of storing all data in text files we used **IndexedDB**.
@@ -54,9 +39,3 @@ All the relevant sections for our website is broken up into different folders:
 
 # Super Users  
 All information is in Javascript Website -> constants.js  
-
-# Final Grading  
-Attached is the file that specifies the specifications we completed.  
-It also has the grading distribution spread across the team.  
-[proj_spec_s21 (1).docx](https://github.com/MichaelSalSail/CSC322_TEAMJ/files/6474531/proj_spec_s21.1.docx)
-
